@@ -503,7 +503,6 @@ input[type=text]+.minibutton {
 	border:1px solid #d8dee2;
 	border-top-color:white;
 	border-radius:0 0 4px 4px;
-	height:560px;
 }
 .auth-form-body .input-block {
 	margin-top:5px;
